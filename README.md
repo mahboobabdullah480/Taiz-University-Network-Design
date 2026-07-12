@@ -23,6 +23,12 @@ IPv4 Addressing
 Author
 Mahboab Abdullah Hazaea Othman
 
+[1.png]
+[2.png]
+
+
+
+
 
 
 
